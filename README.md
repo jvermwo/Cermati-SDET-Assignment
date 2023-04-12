@@ -12,7 +12,9 @@ Approach:-
 
 Steps to get the API:- 
 1.While doing the final click -> Inspect->Network
+
 2.Copy the curl
+
 3.Post it in Postman for Responce Manual Testing
 
 Curl to be verified : - 
